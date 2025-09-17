@@ -1,0 +1,16 @@
+# Dependencies
+node_modules
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Environment files
+.env
+
+# Local uploads (container creates its own)
+uploads/
+
+# OS / editor files
+.DS_Store
+.vscode
+.idea

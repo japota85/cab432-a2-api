@@ -1,0 +1,12 @@
+{
+  "videos": [
+    {
+      "id": "64cf4981-9652-42cc-a933-60ca2b8df984",
+      "originalName": "file_example_MP4_640_3MG.mp4",
+      "storedPath": "C:\\Users\\janph\\CAB432\\cab432-a1-video-api\\uploads\\raw\\64cf4981-9652-42cc-a933-60ca2b8df984.mp4",
+      "size": 3114374,
+      "mimetype": "video/mp4",
+      "uploadedAt": "2025-08-24T08:40:51.876Z"
+    }
+  ]
+}
